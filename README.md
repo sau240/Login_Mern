@@ -2,13 +2,13 @@ User Authentication & Dashboard System
 This project is a full-stack authentication system built with React (Frontend), Node.js (Backend), and MongoDB (Database). It includes user registration, login, password reset functionality, and a dashboard with a dark mode toggle.
 
 Features
-✅ User Registration & Login – Users can sign up, log in, and manage accounts.
-✅ Password Reset – Users can reset passwords via email.
-✅ Dashboard – Includes interactive UI with sliding image cards.
-✅ Dark Mode – Switch between light and dark themes.
-✅ MongoDB Database – Stores user data securely.
-✅ API Calls – Uses Axios for backend communication.
-✅ Bootstrap UI – For a clean and modern look.
+User Registration & Login – Users can sign up, log in, and manage accounts.
+Password Reset – Users can reset passwords via email.
+Dashboard – Includes interactive UI with sliding image cards.
+Dark Mode – Switch between light and dark themes.
+MongoDB Database – Stores user data securely.
+API Calls – Uses Axios for backend communication.
+Bootstrap UI – For a clean and modern look.
 
 Technologies Used
 Frontend:
@@ -52,13 +52,8 @@ Edit
 │-- 📜 README.md
 Setup & Installation
 Step 1: Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/auth-dashboard.git
-cd auth-dashboard
-Step 2: Install dependencies
-Frontend:
+
+
 
 bash
 Copy
