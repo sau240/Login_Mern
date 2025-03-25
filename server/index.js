@@ -14,7 +14,7 @@ app.use(
 );
 
 // ✅ Connect to MongoDB (Use Correct DB Name)
-mongoose.connect("mongodb+srv://sv695177:o15kRG9hrfxuhOgd@login.tqopm.mongodb.net/login", {  // 🔄 Ensure correct DB name
+mongoose.connect("mongodb+srv://sv695177: Write ur password here  @login.tqopm.mongodb.net/login", {  // 🔄 Ensure correct DB name
     useNewUrlParser: true,
     useUnifiedTopology: true,
     serverSelectionTimeoutMS: 5000,  
